@@ -1,0 +1,10 @@
+/Users/nhodges/Projects/Razor/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Users/nhodges/Projects/Razor/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/nhodges/Projects/Razor/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/nhodges/Projects/Razor/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/nhodges/Projects/Razor/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/nhodges/Projects/Razor/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/nhodges/Projects/Razor/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/nhodges/Projects/Razor/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/nhodges/Projects/Razor/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/nhodges/Projects/Razor/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
